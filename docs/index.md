@@ -2,52 +2,52 @@
 
 Click on a link below to visit the website for that team's project.
 
-[For PIE students - an example page using CSS](https://olincollege.github.io/pie-page-template/example-css-page/)
+[For PIE students - an example page using CSS](https://olincollege.github.io/pie-2025-03/example-css-page/)
 
-[Box Bot](https://olincollege.github.io/box-bot)
+[Box Bot](https://olincollege.github.io/pie-2025-03/box-bot)
 
-[Creature Feature](https://olincollege.github.io/creature-feature)
+[Creature Feature](https://olincollege.github.io/pie-2025-03/creature-feature)
 
-[Desk (Chair) on Demand](https://olincollege.github.io/desk-chair-on-demand)
+[Desk (Chair) on Demand](https://olincollege.github.io/pie-2025-03/desk-chair-on-demand)
 
-[Disc Golf](https://olincollege.github.io/disc-golf)
+[Disc Golf](https://olincollege.github.io/pie-2025-03/disc-golf)
 
-[Fishbot Frenzy](https://olincollege.github.io/fishbot-frenzy)
+[Fishbot Frenzy](https://olincollege.github.io/pie-2025-03/fishbot-frenzy)
 
-[Fox-Bot](https://olincollege.github.io/fox-bot)
+[Fox-Bot](https://olincollege.github.io/pie-2025-03/fox-bot)
 
-[Ground Station](https://olincollege.github.io/ground-station)
+[Ground Station](https://olincollege.github.io/pie-2025-03/ground-station)
 
-[Less Blades, More Fun!](https://olincollege.github.io/less-blades-more-fun)
+[Less Blades, More Fun!](https://olincollege.github.io/pie-2025-03/less-blades-more-fun)
 
-[MasterPiece](https://olincollege.github.io/masterpiece)
+[MasterPiece](https://olincollege.github.io/pie-2025-03/masterpiece)
 
-[Munchkins](https://olincollege.github.io/munchkins)
+[Munchkins](https://olincollege.github.io/pie-2025-03/munchkins)
 
-[MyoAmp](https://olincollege.github.io/myoamp)
+[MyoAmp](https://olincollege.github.io/pie-2025-03/myoamp)
 
-[OL-1N](https://olincollege.github.io/ol-1n)
+[OL-1N](https://olincollege.github.io/pie-2025-03/ol-1n)
 
-[PCFrost](https://olincollege.github.io/pcfrost)
+[PCFrost](https://olincollege.github.io/pie-2025-03/pcfrost)
 
-[PIErography](https://olincollege.github.io/pierography)
+[PIErography](https://olincollege.github.io/pie-2025-03/pierography)
 
-[Project AURA](https://olincollege.github.io/project-aura)
+[Project AURA](https://olincollege.github.io/pie-2025-03/project-aura)
 
-[Ru-bling](https://olincollege.github.io/ru-bling)
+[Ru-bling](https://olincollege.github.io/pie-2025-03/ru-bling)
 
-[Scribblz](https://olincollege.github.io/scribblz)
+[Scribblz](https://olincollege.github.io/pie-2025-03/scribblz)
 
-[Sigma](https://olincollege.github.io/sigma)
+[Sigma](https://olincollege.github.io/pie-2025-03/sigma)
 
-[Silly Soil Serpents](https://olincollege.github.io/silly-soil-serpents)
+[Silly Soil Serpents](https://olincollege.github.io/pie-2025-03/silly-soil-serpents)
 
-[SLAUGHDR](https://olincollege.github.io/slaughdr)
+[SLAUGHDR](https://olincollege.github.io/pie-2025-03/slaughdr)
 
-[Starglazers](https://olincollege.github.io/starglazers)
+[Starglazers](https://olincollege.github.io/pie-2025-03/starglazers)
 
-[The Fitbot](https://olincollege.github.io/the-fitbot)
+[The Fitbot](https://olincollege.github.io/pie-2025-03/the-fitbot)
 
-[The Lazy Engineers](https://olincollege.github.io/the-lazy-engineers)
+[The Lazy Engineers](https://olincollege.github.io/pie-2025-03/the-lazy-engineers)
 
-[The Resistance](https://olincollege.github.io/the-resistance)
+[The Resistance](https://olincollege.github.io/pie-2025-03/the-resistance)
