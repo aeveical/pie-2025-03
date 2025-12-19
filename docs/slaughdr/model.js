@@ -50,8 +50,6 @@ function animate() {
     console.log("inside animate function");
     targetTime = scrollProgress * clip.duration;
     console.log(scrollProgress);
-    // 0.7407407407407407
-    // 0.8216468896080547
 
     panels.forEach(panel => {
         const start = parseFloat(panel.dataset.start);
