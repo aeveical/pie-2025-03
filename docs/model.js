@@ -1,8 +1,7 @@
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
-import { LoadingManager } from 'three';
 
-const manager = new LoadingManager();
+const manager = new THREE.LoadingManager(); 
 const loader = new GLTFLoader(manager);
 let scrollY = 0;
 let scrollProgress = 0;
